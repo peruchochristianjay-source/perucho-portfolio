@@ -1,5 +1,5 @@
 # About Me
-Hello, Im Christian Jay Perucho, BSIT 2A, Im 20 years Old, And I have Hidden talent, But I have not discovered it yet.
+Hello, I am Christian Jay Perucho, BSIT 2A, I'm 20 years Old, And I have Hidden talent, But I have not discovered it yet.
 # Portfolio Section
 * Home
 * About Me
